@@ -12,7 +12,7 @@
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -50,4 +50,4 @@ Response:
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response:None i was able to refer to my Lab 1 process and succeded )much to my surprise) on the first try
